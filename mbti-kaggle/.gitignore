@@ -1,0 +1,15 @@
+__pycache__
+.empty
+.ipynb_checkpoints
+*.swp
+*.out
+
+# IDE configuration
+.vscode
+
+# Data files
+*.csv
+*.pkl
+*.npy
+results/
+result.txt

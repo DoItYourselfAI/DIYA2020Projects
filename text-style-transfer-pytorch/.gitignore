@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.empty
+.DS_Store
+.vscode
+nohup*
+
+evaluation/checkpoints/*
+checkpoints
+*.pth
